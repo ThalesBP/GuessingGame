@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{7D667A53-4056-DA48-B5BD-3E5D05E05657}") = "GuessingGame", "Assembly-CSharp.csproj", "{3CC94380-5ECE-4185-3742-C7794C7A14DD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CC94380-5ECE-4185-3742-C7794C7A14DD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CC94380-5ECE-4185-3742-C7794C7A14DD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CC94380-5ECE-4185-3742-C7794C7A14DD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CC94380-5ECE-4185-3742-C7794C7A14DD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
